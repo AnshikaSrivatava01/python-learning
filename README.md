@@ -71,4 +71,31 @@ Completed coding exercises involving:
 - Finding the first non-repeating character
 - Word frequency and longest-word problems
 
+# Day 3: Python Functions, Arguments, Comprehensions, Strings, List, Dictionary, tuple and set
+
+## Topics Covered
+- List operations and common elements
+- Removing duplicates while preserving order
+- Finding the second-largest distinct number
+- Merging dictionaries and adding values for common keys
+- Counting element frequency using dictionaries
+- Set union, intersection, and difference
+- Converting lists of tuples into dictionaries
+- Grouping words by their first letter
+- Analysing student records and average marks
+- Calculating total spending by transaction category
+
+## Practice Questions Completed
+- Find common elements between two lists
+- Remove duplicates while preserving order
+- Find the second-largest distinct number
+- Merge dictionaries by adding values for common keys
+- Count the frequency of each element
+- Find the union, intersection, and difference of two sets
+- Convert a list of tuples into a dictionary
+- Group words by their first letter
+- Find the student with the highest average marks
+- Calculate total spending in each transaction category
+- Build a student record manager to add, update, and display student marks and identify the highest scorer
+
 
