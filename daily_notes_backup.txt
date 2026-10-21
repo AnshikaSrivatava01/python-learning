@@ -1,0 +1,6 @@
+Day 1:
+- Learned about open() and file handling modes.
+- Understood why the 'with' statement is safe.
+- Practiced writing strings to disk.
+Day 2:
+- Explored read(), readline(), and readlines().

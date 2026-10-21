@@ -98,4 +98,61 @@ Completed coding exercises involving:
 - Calculate total spending in each transaction category
 - Build a student record manager to add, update, and display student marks and identify the highest scorer
 
+# Day 4 & 5 Python Practice – File Handling, Modules, Searching and Sorting
 
+## Topics Covered
+
+### 1. File Handling
+- Creating, reading, writing, and appending text files.
+- Copying contents between files.
+- Counting lines, words, and characters.
+- Searching for specific words in a file.
+- Managing notes stored in text files.
+
+### 2. Modules and Built-in Libraries
+- Importing built-in and custom modules.
+- Using `math` for mathematical operations.
+- Using `random` for random number generation and OTP creation.
+- Using `datetime` for date and time operations.
+- Creating reusable functions in separate Python modules.
+
+### 3. Searching Algorithms
+- Understanding linear search.
+- Implementing binary search on sorted lists.
+- Finding elements and handling cases where a target is absent.
+- Understanding the difference between linear and binary search.
+
+### 4. Sorting Algorithms
+- Understanding how sorting algorithms arrange elements.
+- Implementing sorting logic using Python.
+- Practising bubble sort and comparing elements to arrange them in ascending order.
+- Understanding algorithm efficiency and time complexity.
+
+## Practice Programs
+
+### File Handling
+- `write.py` – Writing data to a file.
+- `read.py` – Reading file contents.
+- `append_notes.py` – Appending notes.
+- `copy_contents.py` – Copying file contents.
+- `count.py` – Counting file content.
+- `search_and_count.py` – Searching for and counting words.
+
+### Modules and Libraries
+- Age calculator using `datetime`.
+- Arithmetic operations and mathematical functions.
+- Current date and time display.
+- Number guessing game.
+- OTP generator.
+- Custom module imports.
+
+### Searching and Sorting
+- `searching_algorithms.py` – Searching elements in a list.
+- `sorting_algorithms.py` – Sorting elements in a list.
+
+## Learning Outcomes
+- Improved understanding of Python file operations.
+- Practised using built-in libraries and custom modules.
+- Developed problem-solving skills through searching and sorting algorithms.
+- Gained an understanding of algorithm efficiency and time complexity.
+- Organised practice programs into separate files and folders.
