@@ -156,3 +156,40 @@ Completed coding exercises involving:
 - Developed problem-solving skills through searching and sorting algorithms.
 - Gained an understanding of algorithm efficiency and time complexity.
 - Organised practice programs into separate files and folders.
+# Day 6 Python Practice – Exception Handling and OOP
+
+## Topics Covered
+
+### 1. Exception Handling
+- Using `try`, `except`, `else`, and `finally`.
+- Handling division-by-zero errors.
+- Managing invalid user input.
+- Handling missing files and file-related errors.
+- Understanding and handling values outside valid ranges.
+- Preventing repeated invalid input through validation.
+
+### 2. Object-Oriented Programming (OOP)
+- Creating classes and objects.
+- Using the `__init__()` constructor.
+- Defining attributes and methods.
+- Working with multiple objects.
+- Implementing practical classes such as `Student`, `Employee`, and `BankAccount`.
+- Modelling library book operations using a class.
+
+## Practice Programs
+
+### Exception Handling
+- `Complete_...py` – Practising exception handling structures.
+- `Division_b...py` – Handling division-by-zero errors.
+- `Invalid_in...py` – Handling invalid input.
+- `missing_fil...py` – Handling missing files.
+- `Out_of_ra...py` – Handling values outside an allowed range.
+- `Repeated_...py` – Practising repeated input or validation.
+
+### OOP Basics
+- `BankAccount.py` – Modelling bank account operations.
+- `Employee.py` – Representing employee information and behaviour.
+- `Library_Book.py` – Modelling library book operations.
+- `Multiple_Student.py` – Working with multiple student objects.
+- `Student.py` – Creating a student class and managing student details.
+
