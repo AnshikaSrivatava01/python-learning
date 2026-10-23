@@ -193,3 +193,36 @@ Completed coding exercises involving:
 - `Multiple_Student.py` – Working with multiple student objects.
 - `Student.py` – Creating a student class and managing student details.
 
+# Day 7 Python Practice – Inheritance, Encapsulation and Polymorphism
+
+
+## Topics Covered
+
+### 1. Inheritance
+- Understanding parent and child classes.
+- Reusing attributes and methods from parent classes.
+- Implementing inheritance through practical examples.
+- Using inheritance to organise related classes.
+
+### 2. Encapsulation
+- Understanding data hiding and controlled access to attributes.
+- Using public and non-public attribute naming conventions.
+- Protecting object data through methods.
+
+### 3. Polymorphism
+- Understanding polymorphism in object-oriented programming.
+- Implementing method overriding in child classes.
+- Using a common method interface across different classes.
+
+## Practice Programs
+- `BankAccount.py` – Practising OOP concepts with bank accounts.
+- `Employee.py` – Working with employee classes and inheritance.
+- `employee...py` – Additional employee-related practice.
+- `Override.py` – Demonstrating method overriding.
+- `person_&_...py` – Practising person-related class relationships.
+- `Polymorphism.py` – Demonstrating polymorphic behaviour.
+- `Vehicle.py` – Applying OOP concepts to vehicle classes.
+
+
+
+
